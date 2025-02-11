@@ -11,7 +11,7 @@
 
 // console.log("Today\tis\ta\tgood\tday");
 
-let str="Australiat";
+let str="Australia";
 var arr=[1,2,3,4,5,6,7];
 // console.log(str.length)//9
 // console.log(str.toUpperCase());//AUSTRALIA
